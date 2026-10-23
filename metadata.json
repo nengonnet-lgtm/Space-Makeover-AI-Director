@@ -1,0 +1,6 @@
+{
+  "name": "Google Flow Space Makeover AI Director",
+  "description": "AI Director & Google Flow Prompt Architect สำหรับออกแบบพรอมต์วิดีโอแปลงโฉมห้อง รีโนเวท ไทม์แลปส์ พร้อม Audio AI / ASMR และ Storyboard ละเอียดระดับวินาที",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
